@@ -5,6 +5,6 @@
 
 
 #helps user maintain an inventory of cars
-#user is given several choices: add a carto inventory, view inventory of cars, or quit the program
+#user is given several choices: add a car to inventory, view inventory of cars, or quit the program
 #displays a goodbye message after the user makes a choice and the choice is executed
 
