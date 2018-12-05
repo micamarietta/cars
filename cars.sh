@@ -4,7 +4,7 @@
 
 echo "My Old Cars Program"
 echo "To make a choice, enter the corresponding number"
-choice= 'Enter your choice: '
+PS3= 'Enter your choice: '
 options =("Add a car" "View the cars" "Quit")
 select opt in "$options[@]}"
 do      
